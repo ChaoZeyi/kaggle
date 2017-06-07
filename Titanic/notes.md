@@ -13,6 +13,14 @@
 
 #### 选择模型
 
-- LinearRegression
-- LogisticRegression
+- LinearRegression：
 
+  Titanic.py
+
+  kaggle.csv
+
+- LogisticRegression：
+
+  submission.py
+
+  submission.csv
